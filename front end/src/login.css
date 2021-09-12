@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    background-image: url("./Utils/background.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+H3.title{
+    text-align: left;
+}
+Form.login-form {
+    max-width: 300px;
+
+}
+login-form-forgot {
+    float: right;
+    text-align: center;
+}
+Button.login-form-button {
+    width: 100%;
+    text-align: center;
+}
+Div.div{
+    text-align: center;
+    margin-left: 51%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background: #fafafa;
+    outline:black ridge medium;
+}
